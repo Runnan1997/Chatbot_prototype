@@ -1,0 +1,2 @@
+This is a prototype of chatbot by using Google dialogflow: https://dialogflow.cloud.google.com/#/editAgent/hair-salon-chatbot-hnbxbw/ 
+A more detailed application will be implemented in two weeks.
